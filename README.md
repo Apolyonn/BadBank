@@ -4,7 +4,7 @@ Project Title: Bad Bank Full Stack Application
 
 Description/Motivation: This is a full stack application built to demonstrate an app using the MERN stack and authentication.
 
-Installation Guidelines: Clone this repository to start using git clone and then pull it to your enviroment with git pull. While in your editor, use npm init to downl;oad the dependencies.
+Installation Guidelines: Clone this repository to start using git clone and then pull it to your enviroment with git pull. While in your editor, use npm init to download the dependencies.
 
 Technology used: This app was built with the MERN stack. React.js, Express, MondoDB and Node.JS 
 
