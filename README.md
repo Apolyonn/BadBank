@@ -8,7 +8,7 @@ Installation Guidelines: Clone this repository to start using git clone and then
 
 Technology used: This app was built with the MERN stack. React.js, Express, MondoDB and Node.JS 
 
-Features: Features a create account function and access to your balance that you may withdraw and add to. In the future the ideal application for this app would be to have blockchain wallet applications. Currently planning to add user authentication using CMS and add more routing. 
+Features: Features a create account function and access to your balance that you may withdraw and add to. In the future the ideal application for this app would be to have blockchain wallet applications. Currently planning to add user authentication using CMS and add more routing! 
 
 License: MIT License
 
