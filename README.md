@@ -1,6 +1,6 @@
 # BadBank![2022-02-09](https://user-images.githubusercontent.com/88862050/153304240-9bed8d2d-5502-44ef-9b1b-e1a8aedb5463.png)
 
-Project Title: Bad Bank Full Stack Application
+Project Title: Bad Bank Full Stack Application.
 
 Description/Motivation: This is a full stack application built to demonstrate an app using the MERN stack and authentication.
 
